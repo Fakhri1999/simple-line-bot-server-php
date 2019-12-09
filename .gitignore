@@ -15,5 +15,5 @@ application/logs/*
 # environment
 .env
 
-# vendor
-application/vendor
+# # vendor
+# application/vendor
