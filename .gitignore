@@ -1,0 +1,23 @@
+*/config/development
+*/logs/log-*.php
+!*/logs/index.html
+*/cache/*
+!*/cache/index.html
+!*/cache/.htaccess
+
+user_guide/
+
+# logs
+application/logs/*
+!application/logs/index.html
+!application/logs/.htaccess
+
+# composer
+*/composer.lock
+*/composer.phar
+
+# environment
+.env
+
+# vendor
+application/vendor
