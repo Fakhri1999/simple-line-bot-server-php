@@ -12,10 +12,6 @@ application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
 
-# composer
-*/composer.lock
-*/composer.phar
-
 # environment
 .env
 

@@ -59,8 +59,8 @@
 			$env = 'development';
 			break;
 		default:
-			$env = 'production';
-			// $env = 'development';
+			// $env = 'production';
+			$env = 'development';
 			break;
 	}
 
